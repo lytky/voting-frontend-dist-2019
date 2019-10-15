@@ -1,7 +1,7 @@
 {
   "index": {
     "menu": {
-      "title": "Edustajistovaalit 2018",
+      "title": "Edustajistovaalit 2019",
       "sign_up": "Kirjaudu",
       "elections": "Äänestä",
       "profile": "Omat Tiedot",
@@ -13,9 +13,9 @@
     "main": {
       "page_title": "Edustajistovaalit",
       "you_may_check_eligibility":
-        "Voit tarkastaa vaalikelpoisuutesi tilaamalla sisäänkirjautumislinkin sähköpostiosoitteeseen, jonka olet ilmoittanut 15.9.2015 mennessä Helsingin yliopiston opiskelijarekisteriin.",
+        "Voit tarkastaa vaalikelpoisuutesi tilaamalla sisäänkirjautumislinkin sähköpostiosoitteeseen, jonka olet ilmoittanut 15.9.2015 mennessä Lappeenrannan-Lahden teknillisen yliopiston opiskelijarekisteriin.",
       "sign_in_using_university_account":
-        "Kirjaudu sisään Helsingin yliopiston käyttäjätunnuksellasi.",
+        "Kirjaudu sisään LUT:n käyttäjätunnuksellasi.",
       "eligibility_check": "Vaalikelpoisuuden tarkastaminen",
       "voting_opening_hours": "Äänestäminen on avoinna klo {{ open }} - {{ close }}.",
       "voting_opens_at": "Äänestäminen avautuu",
@@ -31,21 +31,21 @@
       "no_voting_right": {
         "title": "Ei äänioikeutta",
         "lead": "Opiskelijanumerollasi ei ole äänioikeutta.",
-        "body": "Ongelmatilanteessa ota yhteys HYYn vaalityöntekijään.",
+        "body": "Ongelmatilanteessa ota yhteys LTKY:n vaalityöntekijään.",
         "button_caption": "Palaa etusivulle"
       },
 
       "invalid_saml_response": {
         "title": "Kirjautumisvirhe",
         "lead": "Yhteistyö yliopiston kirjautumispalvelun kanssa epäonnistui.",
-        "body": "Jos ongelma ei poistu uudella yrityksellä, ota yhteys HYYn vaalityöntekijään.",
+        "body": "Jos ongelma ei poistu uudella yrityksellä, ota yhteys LTKY:n vaalityöntekijään.",
         "button_caption": "Yritä uudelleen"
       },
 
       "general": {
         "title": "Tuntematon virhe",
         "lead": "Jotain meni tuntemattomasta syystä pieleen.",
-        "body": "Ongelmatilanteessa ota yhteys HYYn vaalityöntekijään.",
+        "body": "Ongelmatilanteessa ota yhteys LTKY:n vaalityöntekijään.",
         "button_caption": "Yritä uudelleen"
       }
 
@@ -72,27 +72,27 @@
     "sign_up": {
       "page_title": "Kirjaudu sisään",
       "attention": "Huom!",
-      "voting_days_are": "Äänestyspäivät ovat {{ firstPeriod }} ja {{ secondPeriod }}",
+      "voting_days_are": "Äänestyspäivät ovat {{ firstPeriod }}",
       "voting_open_hours_are": "Äänestys on avoinna klo {{ range }} välisenä aikana.",
       "primary_button_caption": "Kirjaudu sisään",
-      "if_cannot_sign_in": "Mikäli et voi käyttää yliopiston käyttäjätunnusta tai sisäänkirjautuminen ei jostain syystä onnistu, ota yhteys HYYn vaalityöntekijään {{ name }}, {{ email }}, {{ phone }}.",
+      "if_cannot_sign_in": "Mikäli et voi käyttää yliopiston käyttäjätunnusta tai sisäänkirjautuminen ei jostain syystä onnistu, ota yhteys LTKY:n vaalityöntekijään {{ name }}, {{ email }}, {{ phone }}.",
       "sign_in_is_not_active": "Äänestäminen ei ole tällä hetkellä avoinna.",
 
       "edari": {
-        "eligibility": "Olet äänioikeutettu, kun olet ilmoittautunut läsnäolevaksi ja maksanut HYYn jäsenmaksun. Voit sisäänkirjautua äänestämään Helsingin yliopiston käyttäjätunnuksellasi.",
+        "eligibility": "Olet äänioikeutettu, kun olet ilmoittautunut läsnäolevaksi ja maksanut LTKY:n jäsenmaksun. Voit sisäänkirjautua äänestämään LUT yliopiston käyttäjätunnuksellasi.",
 
-        "late_member_note": "Mikäli ilmoittauduit läsnäolevaksi vasta äskettäin, opiskelijanumeroasi ei välttämättä vielä löydy äänoikeutettujen listasta. Tällöin saat kirjautumisen jälkeen saat ilmoituksen, ettei sinulla ole äänioikeutta. Sinulle voidaan kuitenkin luoda äänioikeus, mikäli esität tositteen jäsenmaksun maksamisesta HYYn keskustoimistolla."
+        "late_member_note": "Mikäli ilmoittauduit läsnäolevaksi vasta äskettäin, et voi ääestää näissä vaaleissa. Jäseneksi ilmoittautumisen on täytynyt tapahtua kaksi viikkoa ennen vaaleja"
       },
 
       "request_link": {
         "ingress":
           "Anna opiskelijarekisteriin tallentamasi sähköpostiosoite, niin sinulle lähetetään sisäänkirjautumislinkki.",
         "password_instructions":
-          "Salasana lähetetään ainoastaan ennalta tunnettuun sähköpostiosoitteeseen. Tarkista opiskelijarekisteriin antamasi sähköpostiosoitteesi <a href='https://weboodi.helsinki.fi'>kirjautumalla WebOodiin</a>.",
+          "Salasana lähetetään ainoastaan ennalta tunnettuun sähköpostiosoitteeseen. Tarkista opiskelijarekisteriin antamasi sähköpostiosoitteesi <a href='https://weboodi.lut.fi/oodi'>kirjautumalla WebOodiin</a>.",
         "spam_instructions":
           "Tarkista myös sähköpostisi roskapostikansio, mikäli et saa sisäänkirjautumislinkkiä.",
         "in_case_of_fire":
-          "Viime kädessä ota yhteys HYYn vaalityöntekijään <a href='mailto:vaalit@hyy.fi'>vaalit@hyy.fi</a> tai +358 46 921 7850.",
+          "Viime kädessä ota yhteys LTKY:n vaalityöntekijään <a href='mailto:vaalit@ltky.fi'>vaalit@ltky.fi</a> tai +358 44 293 8825.",
 
         "attention": "Huom!",
         "election_dates_explained":
@@ -114,7 +114,7 @@
         "something_went_wrong": {
           "detail": "Linkkiä ei voitu lähettää.",
           "if_happens_again":
-            "Jos ongelma toistuu, ota yhteys HYYn vaalityöntekijään HYYn vaalityöntekijään vaalit@hyy.fi +358 46 921 7850.",
+            "Jos ongelma toistuu, ota yhteys LTKY:n vaalityöntekijään vaalit@ltky.fi +358 44 293 8825.",
           "pls_explain":
             "Kerro vaalityöntekijälle virheen tekninen syy:"
         },
@@ -219,18 +219,18 @@
 
   "partials": {
     "info": {
-      "main_title": "HYYn edustajistovaalit",
+      "main_title": "LTKY:n edustajistovaalit 2019",
       "ingress":
-        "HYYn edustajistovaaleissa valitaan ylioppilaskunnan ylin päättävä elin, 60-henkinen edustajisto. Äänioikeutettuja ovat HYYn jäsenet eli noin 27 000 Helsingin yliopiston opiskelijaa.",
+        "LTKY:n edustajistovaaleissa valitaan ylioppilaskunnan ylin päättävä elin, 27-henkinen edustajisto. Äänioikeutettuja ovat LTKY:n jäsenet eli Lappeenrannan-Lahden teknillisen yliopiston opiskelijat, jotka löytyvät vaaliluettelosta..",
       "election_dates_explained":
-        "Äänestyspäivät ovat {{ firstPeriod }} ja {{ secondPeriod }}. Äänestys on avoinna klo {{ range }}."
+        "Ennakkoäänestys alkaa 22.10 ja äänestys on auki {{ firstPeriod }} varsinaisten vaalipäivien ollessa {{ secondPeriod }}. Sähköinen äännestys on avoinna {{ range }} ja varsinaisena vaalipäivänä äänestys on avoinna klo 9-15 Ylioppilastalon aulassa."
     },
 
     "contact": {
       "more_info": "Lisätietoa",
-      "hyy_ae_link_caption": "HYYn hallintovaalisivusto",
-      "hyy_election_link_caption": "HYYn vaalisivusto",
-      "in_case_of_fire": "Ongelmatilanteessa ota yhteys HYYn vaalityöntekijään"
+      "hyy_ae_link_caption": "LTKY:n nettisivuilta",
+      "hyy_election_link_caption": "LTKY:n vaalisivusto",
+      "in_case_of_fire": "Ongelmatilanteessa ota yhteys LTKY:n vaalityöntekijään"
     }
   }
 }

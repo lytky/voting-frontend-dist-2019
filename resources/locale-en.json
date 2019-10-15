@@ -1,7 +1,7 @@
 {
   "index": {
     "menu": {
-      "title": "Council Elections 2018",
+      "title": "Council Elections 2019",
       "sign_up": "Sign Up",
       "elections": "Vote",
       "profile": "Eligibility",
@@ -11,11 +11,11 @@
 
   "pages": {
     "main": {
-      "page_title": "Council Elections",
+      "page_title": "Council Elections 2019",
       "you_may_check_eligibility":
-        "You may check your eligibility for the elections by requesting a sign in link. Link will be sent to the email address you have submitted to the Helsinki University Student Registry by 15.9.2015.",
+        "You may check your eligibility for the elections by requesting a sign in link. Link will be sent to the email address you have submitted to the Lappeenranta-Lahti technical University Student Registry by 15.9.2015.",
       "sign_in_using_university_account":
-        "Sign in using your account of the University of Helsinki.",
+        "Sign in using your account of the LUT.",
       "eligibility_check": "Eligibility for the elections",
       "voting_opening_hours": "Voting is open between {{ open }} - {{ close }}.",
       "voting_opens_at": "Voting opens at",
@@ -72,27 +72,27 @@
     "sign_up": {
       "page_title": "Sign Up",
       "attention": "Please note!",
-      "voting_days_are": "The voting days are {{ firstPeriod }} and {{ secondPeriod }}",
+      "voting_days_are": "The voting days are {{ firstPeriod }}",
       "voting_open_hours_are": "Voting is open between {{ range }} on each voting day.",
       "primary_button_caption": "Sign Up",
       "if_cannot_sign_in": "If you cannot access your university user account or signing up fails for some reason, please contact the election staff {{ name }}, {{ email }}, {{ phone }}.",
       "sign_in_is_not_active": "Voting is not open at the moment.",
 
       "edari": {
-        "eligibility": "You have a voting right if you have enrolled in and paid the member fee of the Student Union. You can sign up to vote by using your Helsinki University user account.",
+        "eligibility": "You have a voting right if you have enrolled in and paid the member fee of the Student Union. You can sign up to vote by using your LUT user account.",
 
-        "late_member_note": "If you enrolled in just recently, your student number might not yet be in the list of people with voting rights. In that case you will receive a message after signing in that you don't have a voting right. Your voting right can be created if you proof your payment of the Student Union's member fee at the office of the Student Union."
+        "late_member_note": "If you enrolled in just recently, you many not vote in these elections. The enrollment must have happened two weeks before the elections."
       },
 
       "request_link": {
         "ingress":
           "Give the same e-mail address you have in University’s student registry, and we will send you a registration link.",
        "password_instructions":
-          "Password can be delivered only to the email address that you have in the student registry. You can check which email address you have used on the contact details page in <a href='https://weboodi.helsinki.fi'>WebOodi</a>.",
+          "Password can be delivered only to the email address that you have in the student registry. You can check which email address you have used on the contact details page in <a href='https://weboodi.lut.fi/oodi'>WebOodi</a>.",
         "spam_instructions":
           "In case you didn't receive the link, please also check your spam folder.",
         "in_case_of_fire":
-          "If everything else fails, please contact the election staff of the Student Union <a href='mailto:vaalit@hyy.fi'>vaalit@hyy.fi</a> or +358 46 921 7850.",
+          "If everything else fails, please contact the election staff of the Student Union <a href='mailto:vaalit@ltky.fi'>vaalit@ltky.fi</a> or +358 44 293 8825.",
 
         "attention": "Please Notice:",
         "election_dates_explained":
@@ -114,7 +114,7 @@
         "something_went_wrong": {
           "detail": "We were unable to send you the link.",
           "if_happens_again":
-            "If the problem happens again, please contact the election staff of the Student Union vaalit@hyy.fi +358 46 921 7850.",
+            "If the problem happens again, please contact the election staff of the Student Union vaalit@ltky.fi +358 44 293 8825.",
           "pls_explain":
             "Please let us know the technical error message:"
         },
@@ -220,11 +220,11 @@
 
   "partials": {
     "info": {
-      "main_title": "HYY Council Elections",
+      "main_title": "LTKY Council Elections",
       "ingress":
-        "HYY’s Representative Council elections are conducted to elect 60 members into the council, the highest decision-making body of the Student Union. All HYY’s members, around 27,000 students at the University of Helsinki, have the right to vote in the elections.",
+        "LTKY’s Representative Council elections are conducted to elect 27 members into the council, the highest decision-making body of the Student Union. All LTKY’s members i.e. members of LUT, have the right to vote in the elections.",
       "election_dates_explained":
-        "Election days are {{ firstPeriod }} and {{ secondPeriod }}. Voting is open during {{ range }}."
+        "Advance voting begins on 22.10 and voting is open {{ firstPeriod }} while actual election days are {{ secondPeriod }}. Online voting is open 24/7 and on election days physical elections are open {{ range }} in Student Union building."
     },
 
     "contact": {
