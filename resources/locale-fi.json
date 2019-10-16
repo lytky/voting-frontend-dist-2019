@@ -223,7 +223,7 @@
       "ingress":
         "LTKY:n edustajistovaaleissa valitaan ylioppilaskunnan ylin päättävä elin, 27-henkinen edustajisto. Äänioikeutettuja ovat LTKY:n jäsenet eli Lappeenrannan-Lahden teknillisen yliopiston opiskelijat, jotka löytyvät vaaliluettelosta..",
       "election_dates_explained":
-        "Ennakkoäänestys alkaa 22.10 ja äänestys on auki {{ firstPeriod }} varsinaisten vaalipäivien ollessa {{ secondPeriod }}. Sähköinen äännestys on avoinna {{ range }} ja varsinaisena vaalipäivänä äänestys on avoinna klo 9-15 Ylioppilastalon aulassa."
+        "Ennakkoäänestys alkaa 22.10 ja äänestys on auki {{ firstPeriod }} varsinaisten vaalipäivien ollessa {{ secondPeriod }}. Sähköinen äännestys on avoinna 24/7 ja varsinaisena vaalipäivänä äänestys on avoinna klo {{ range }} Ylioppilastalon aulassa."
     },
 
     "contact": {
