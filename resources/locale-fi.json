@@ -13,11 +13,11 @@
     "main": {
       "page_title": "Edustajistovaalit",
       "you_may_check_eligibility":
-        "Voit tarkastaa vaalikelpoisuutesi tilaamalla sisäänkirjautumislinkin sähköpostiosoitteeseen, jonka olet ilmoittanut 15.9.2015 mennessä Lappeenrannan-Lahden teknillisen yliopiston opiskelijarekisteriin.",
+        "Voit tarkastaa vaalikelpoisuutesi kirajutumalla sisään.",
       "sign_in_using_university_account":
         "Kirjaudu sisään LUT:n käyttäjätunnuksellasi.",
       "eligibility_check": "Vaalikelpoisuuden tarkastaminen",
-      "voting_opening_hours": "Äänestäminen on avoinna klo {{ open }} - {{ close }}.",
+      "voting_opening_hours": "Äänestäminen on avoinna ympäri vuorokauden.",
       "voting_opens_at": "Äänestäminen avautuu",
       "voting_has_ended": "Äänestys on päättynyt",
       "result_will_be_published_at": "Tulos julkistetaan osoitteessa",
@@ -86,9 +86,9 @@
 
       "request_link": {
         "ingress":
-          "Anna opiskelijarekisteriin tallentamasi sähköpostiosoite, niin sinulle lähetetään sisäänkirjautumislinkki.",
+          "",
         "password_instructions":
-          "Salasana lähetetään ainoastaan ennalta tunnettuun sähköpostiosoitteeseen. Tarkista opiskelijarekisteriin antamasi sähköpostiosoitteesi <a href='https://weboodi.lut.fi/oodi'>kirjautumalla WebOodiin</a>.",
+          "Jos koet ongelmia, ota yhteyttä <a href='mailto:vaalit@ltky.fi'>vaalit[at]ltky.fi</a>.",
         "spam_instructions":
           "Tarkista myös sähköpostisi roskapostikansio, mikäli et saa sisäänkirjautumislinkkiä.",
         "in_case_of_fire":
@@ -135,7 +135,7 @@
       "page_title": "Omat tiedot",
       "ingress": "Olet kirjautunut sisään seuraavin tiedoin.",
       "you_are_eligible":
-        "Olet vaalikelpoinen oman laitoksesi ja tiedekunnan vaaleissa (Ylioppilaskunnan säännöt hallinnon opiskelijaedustajien vaalista 5 §).",
+        "Olet vaalikelpoinen vaaleissa.",
       "in_case_of_problem":
         "Jos tiedoissa on epäselvyyksiä, ota yhteys ylioppilaskuntaan.",
       "voter": {
@@ -194,7 +194,7 @@
 
       "you_can_vote_in_the_following": "Voit äänestää seuraavissa vaaleissa:",
       "choose_election": "Avaa vaali, valitse ehdokas ja paina \"äänestä\".",
-      "submit_vote_help": "Äänesi rekisteröidään, kun painat \"äänestä\"-nappia ehdokkaan valitsemisen jälkeen.",
+      "submit_vote_help": "Äänesi rekisteröidään, kun painat \"äänestä\"-nappia ehdokkaan valitsemisen jälkeen. Varmistuksena sinun tulee painaa nappia vielä uudelleen, jotta ääni rekisteröityy!",
       "vote_is_immutable": "Et voi muuttaa antamaasi ääntä jälkikäteen.",
 
       "table_header": {

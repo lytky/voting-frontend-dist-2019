@@ -13,11 +13,11 @@
     "main": {
       "page_title": "Council Elections 2019",
       "you_may_check_eligibility":
-        "You may check your eligibility for the elections by requesting a sign in link. Link will be sent to the email address you have submitted to the Lappeenranta-Lahti technical University Student Registry by 15.9.2015.",
+        "You may check your eligibility for the elections by signing in.",
       "sign_in_using_university_account":
         "Sign in using your account of the LUT.",
       "eligibility_check": "Eligibility for the elections",
-      "voting_opening_hours": "Voting is open between {{ open }} - {{ close }}.",
+      "voting_opening_hours": "Voting is open around the clock on each voting day.",
       "voting_opens_at": "Voting opens at",
       "voting_has_ended": "Voting has ended.",
       "result_will_be_published_at": "Result will be published at",
@@ -86,9 +86,9 @@
 
       "request_link": {
         "ingress":
-          "Give the same e-mail address you have in University’s student registry, and we will send you a registration link.",
+          "",
        "password_instructions":
-          "Password can be delivered only to the email address that you have in the student registry. You can check which email address you have used on the contact details page in <a href='https://weboodi.lut.fi/oodi'>WebOodi</a>.",
+          "If you experience problems, please contact <a href='mailto:vaalit@ltky.fi'>vaalit[at]ltky.fi</a>",
         "spam_instructions":
           "In case you didn't receive the link, please also check your spam folder.",
         "in_case_of_fire":
@@ -135,7 +135,7 @@
       "page_title": "Personal Information",
       "ingress": "You have signed in with the following information.",
       "you_are_eligible":
-        "You are eligible in the elections of your faculty and department.",
+        "You are eligible in the elections.",
       "in_case_of_problem":
         "If there is a problem with your information, please contact the Student Union.",
       "voter": {
@@ -195,7 +195,7 @@
 
       "you_can_vote_in_the_following": "You can vote in the following elections:",
       "choose_election": "Open the election, choose a candidate and press \"vote\".",
-      "submit_vote_help": "Your vote will be registered when you press the \"vote\" button after choosing a candidate.",
+      "submit_vote_help": "Your vote will be registered when you press the \"vote\" button after choosing a candidate. You will asked to press the button again after the first press!",
       "vote_is_immutable": "A cast vote cannot be changed afterwards.",
 
       "table_header": {
